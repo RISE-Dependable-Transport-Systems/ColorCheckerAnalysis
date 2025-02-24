@@ -1,0 +1,5 @@
+numpy==1.22
+opencv-python==4.7.0.72
+matplotlib==3.7.0
+colormath==3.0.0
+opencv-contrib-python==4.8.1.78
