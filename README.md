@@ -1,5 +1,7 @@
 # ColorChecker Analysis
 
+[![DOI](https://zenodo.org/badge/938052346.svg)](https://doi.org/10.5281/zenodo.15646472)
+
 A Python-based application for performing DeltaE analysis on ColorChecker charts. This tool offers both automatic detection and manual selection of the ColorChecker pattern from an image, computes the DeltaE differences for each color patch, supports batch processing of images after pattern selection, and displays detailed visualizations.
 
 <p align="center">
